@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profissional"
+        android:icon="@drawable/ic_profissional"
+        android:title="@string/profissional">
+    </item>
+    <item
+        android:id="@+id/nav_experiencia"
+        android:icon="@drawable/ic_experiencia"
+        android:title="@string/experiencia">
+    </item>
+    <item
+        android:id="@+id/nav_formacao"
+        android:icon="@drawable/ic_formacao"
+        android:title="@string/formacao">
+    </item>
+</menu>

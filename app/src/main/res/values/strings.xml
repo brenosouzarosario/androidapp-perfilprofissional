@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Perfil Profissional</string>
+    <string name="fragmento_principal">Fragmento Principal</string>
+    <string name="fragmento_profissional">Fragmento Profissional</string>
+    <string name="fragmento_experiencia">Fragmento Experiência</string>
+    <string name="fragmento_formacao">Fragmento Formação</string>
+    <string name="profissional">Profissional</string>
+    <string name="experiencia">Experiência</string>
+    <string name="formacao">Formação</string>
+</resources>
